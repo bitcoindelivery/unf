@@ -1,0 +1,9 @@
+Building Unfed
+
+See doc/readme-qt.rst for instructions on building Unfed-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Unfed.
+
+See doc/build-*.txt for instructions on building unfedd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Unfed.
